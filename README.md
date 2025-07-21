@@ -84,8 +84,8 @@ loan-approval-prediction/
 ## 🌐 Deployment
 
  Deployed it on Hugging Face
-
-> 🖥️ Try the app live: [Loan Approval Predictor App]([https://your-huggingface-space-link](https://huggingface.co/spaces/Sharad016/Loan_Prediction_Model))
+ 
+ * 🖥️ Try the app live: [Loan Approval Predictor App](https://huggingface.co/spaces/Sharad016/Loan_Prediction_Model)
 
 ---
 
@@ -93,7 +93,7 @@ loan-approval-prediction/
 ## 🧑‍💻 Author
 
 **Sharad Gupta**
-[LinkedIn](https://www.linkedin.com/in/sharad-gupta-81baa321)
-Email: [sharad2001spg@gmail.com](mailto:sharad2001spg@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sharad-gupta-8196a4321/)
+Email: [sharad2001spg@gmail.com](mailto:sharad2005guptag@gmail.com)
 
 ---
