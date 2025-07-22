@@ -10,7 +10,7 @@ Loan approval prediction is a common use case in banking where banks can assess 
 
 ---
 
-## Tech Stack
+## Technology used 
 
 * **Frontend/UI**: [Streamlit]
 * **Model Training**: Scikit-learn, Pandas, NumPy
