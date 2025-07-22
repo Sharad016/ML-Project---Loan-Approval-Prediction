@@ -4,13 +4,13 @@ This is a **Loan Approval Prediction Web App** built using **Machine Learning** 
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 Loan approval prediction is a common use case in banking where banks can assess an applicant’s eligibility using a variety of parameters. This app simplifies that task using a trained ML model and a simple, interactive web interface.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 * **Frontend/UI**: [Streamlit]
 * **Model Training**: Scikit-learn, Pandas, NumPy
@@ -19,7 +19,7 @@ Loan approval prediction is a common use case in banking where banks can assess 
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 * Source: [Kaggle - Loan Prediction Dataset](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
 * File Used: `train_u6lujuX_CVtuZ9i.csv`
@@ -27,7 +27,7 @@ Loan approval prediction is a common use case in banking where banks can assess 
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Predicts loan approval status based on:
 
@@ -49,7 +49,7 @@ Loan approval prediction is a common use case in banking where banks can assess 
 *  Merged the Column ApplicantIncome and CoapplicantIncome and added them to a new column Income
 *  Deleted Columns : Loan_ID , Gender , Married , Self_Employed	, Property_Area
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 loan-approval-prediction/
@@ -65,7 +65,7 @@ loan-approval-prediction/
 ---
 
 
-## 🧠 Model Info
+## Model Info
 
 * Model Type: Random Forest 
 * Accuracy Achieved: 81.5%
@@ -81,7 +81,7 @@ loan-approval-prediction/
   XG Boost Classifier  - 75.44%
   Light GBM Classifier - 74.56%
 
-## 🌐 Deployment
+##  Deployment
 
  Deployed it on Hugging Face
  
@@ -90,7 +90,7 @@ loan-approval-prediction/
 ---
 
 
-## 🧑‍💻 Author
+##  Author
 
 **Sharad Gupta**
 [LinkedIn](https://www.linkedin.com/in/sharad-gupta-8196a4321/)
